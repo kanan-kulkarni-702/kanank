@@ -10,3 +10,7 @@ During registration, the user can set up his/her password with an email id. Ther
 
 # Scope
 This document describes the project details of user operations in initial sections  and then progresses to in depth details of backend later. 
+
+Check if link is working
+## Docs
+* [Getting started](Getting-started.md)
