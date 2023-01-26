@@ -14,4 +14,34 @@ This document describes the project details of user operations in initial sectio
 Check if link is working
 ## Docs
 * [Getting started link within this repo](Getting-started.md)
+* [Relative link within this repo](doc2/hello.md)
 * [Getting started outside this repo](https://scalar-labs.github.io/scalardb/)
+
+Inserting an XML style using back ticks
+```xml
+<dependency>
+  <groupId>com.scalar-labs</groupId>
+  <artifactId>scalardb</artifactId>
+  <version>3.8.0</version>
+</dependency>
+```
+
+Back ticks only to highlight a text
+```
+Hello there 
+Checking back ticks formatting
+```
+
+## Quoting code
+`This` is for highlighting 'This' using back ticks in a sentence.
+
+
+
+## Table display
+Keep one line spacing beore adding table
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell1  | Content Cell2  |
+| Content Cell3  | Content Cell4  |
+| Content | -- |
