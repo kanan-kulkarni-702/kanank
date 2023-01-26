@@ -13,4 +13,4 @@ This document describes the project details of user operations in initial sectio
 
 Check if link is working
 ## Docs
-* [Getting started](Getting-started.md)
+* [Getting started link](Getting-started.md)
